@@ -1,0 +1,23 @@
+ON_ENABLE: "The plugin has been enabled."
+ON_DISABLE: "The plugin has been disabled."
+NOT_CONSOLE_CMD: "This command cannot be executed from the console."
+
+END_WORLD_SCAN_MSG: "World scan completed."
+GAME_ALREADY_STARTED: "The game has already started. Proceeding in spectator mode."
+LANG_CHANGE: "Switched language."
+PLAYER_WIN: "The player has won."
+PLAYER_DEFEAT: "The player has been defeated."
+PLAYER_JOIN_MSG: "A player has joined the game."
+PLAYER_QUIT_MSG: "A player has left the game."
+
+INTERACT_BLOCK_MISSION_TITLE: "Interact:"
+EAT_MISSION: "Eat:"
+CLEARD: "Completed"
+
+NAME: "Name"
+LANGUAGE: "Language"
+PLAYER_TYPE: "Status"
+LECTERN: "Lectern(Shop)"
+APPLE: "Apple"
+GOLDEN_APPLE: "Golden Apple"
+COOKED_PORKCHOP: "Cooked Porkchop"

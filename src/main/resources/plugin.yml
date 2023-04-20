@@ -1,0 +1,12 @@
+name: ChaosCraft
+version: '0.1'
+main: org.sigee.chaoscraft.ChaosCraft
+api-version: 1.17
+prefix: "ChaosCraft"
+load: STARTUP
+authors: [ sigee-min ]
+description: ChaosCraft is a Minecraft mini-game where players' locations, health, inventory, and abilities change periodically, requiring quick thinking and adaptability.
+website: https://sigee-min.github.io/chaos-craft
+commands:
+  csc:
+    description: ChaosCraft command

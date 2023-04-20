@@ -1,0 +1,23 @@
+ON_ENABLE: "플러그인이 실행되었습니다."
+ON_DISABLE: "플러그인이 종료되었습니다."
+NOT_CONSOLE_CMD: "콘솔에서는 실행할 수 없는 명령어입니다."
+
+END_WORLD_SCAN_MSG: "월드 스캔이 완료되었습니다."
+GAME_ALREADY_STARTED: "이미 게임이 시작되었습니다. 관전자 모드로 진행합니다."
+LANG_CHANGE: "언어로 교체했습니다."
+PLAYER_WIN: "플레이어가 승리하였습니다."
+PLAYER_DEFEAT: "플레이어가 패배했습니다."
+PLAYER_JOIN_MSG: "플레이어가 게임에 접속하였습니다."
+PLAYER_QUIT_MSG: "플레이어가 게임에서 퇴장했습니다."
+
+INTERACT_BLOCK_MISSION_TITLE: "상호작용:"
+EAT_MISSION: "먹어라:"
+CLEARD: "해결됨"
+
+NAME: "이름"
+LANGUAGE: "언어"
+PLAYER_TYPE: "상태"
+LECTERN: "독서대(상점)"
+APPLE: "사과"
+GOLDEN_APPLE: "황금 사과"
+COOKED_PORKCHOP: "구운 돼지고기"
